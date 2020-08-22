@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{4110B16E-DB76-4AEE-B1B9-F05857A7C89A}|Default">
+  <MonoDevelop.Ide.ItemProperties.XamarinFormsThemeSample.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.5A07E016-6832-42FC-80DA-672AA52FC40A" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="XamarinFormsThemeSample/MainPage.xaml.cs">
+    <Files>
+      <File FileName="XamarinFormsThemeSample/MainPage.xaml" Line="13" Column="17" />
+      <File FileName="XamarinFormsThemeSample/App.xaml.cs" Line="11" Column="2" />
+      <File FileName="XamarinFormsThemeSample/MainPage.xaml.cs" Line="73" Column="22" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="XamarinFormsThemeSample" expanded="True">
+            <Node name="XamarinFormsThemeSample" expanded="True">
+              <Node name="App.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True">
+                <Node name="MainPage.xaml.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.XamarinFormsThemeSample.Android AndroidDesignerPreferredTheme="Theme.AppCompat.Light.NoActionBar" PreferredExecutionTarget="Android.pixel_2_pie_9_0_-_api_28" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

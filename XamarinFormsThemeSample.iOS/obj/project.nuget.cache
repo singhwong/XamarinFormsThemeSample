@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "/5iSJbnTLGpPfr0YRqvmaeqkg3LQZ6DTIPnM0xLCw/i5hv5MNanB43kE2d7FqoMuz2B3k11N84TxAxcNd4n5MA==",
+  "success": true,
+  "projectFilePath": "/Users/wangxianguo/Projects/XamarinFormsThemeSample/XamarinFormsThemeSample.iOS/XamarinFormsThemeSample.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/wangxianguo/.nuget/packages/xamarin.essentials/1.5.3.2/xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "/Users/wangxianguo/.nuget/packages/xamarin.forms/4.6.0.1141/xamarin.forms.4.6.0.1141.nupkg.sha512"
+  ],
+  "logs": []
+}
